@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Peter @jkabc123
 - 👀 I’m interested in Rust, C++, Python
-- 🌱 I’m currently implmenting Random Forrest algorithm on Linfa
+- 🌱 I’m currently implmenting Raft in Rust
 - 💞️ I’m looking to collaborate on Machine Learning and Math library projects
 - 📫 How to reach me: pyoung1683@gmail.com
 
