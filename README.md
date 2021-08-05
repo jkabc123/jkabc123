@@ -2,7 +2,7 @@
 - 👀 I’m interested in Rust, C++, Python
 - 🌱 I’m currently implmenting Raft in Rust
 - 💞️ I’m looking to collaborate on Machine Learning and Math library projects
-- 📫 How to reach me: pyoung1683@gmail.com
+- 📫 How to reach me: yang.piyi@gmail.com
 
 <!---
 jkabc123/jkabc123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
